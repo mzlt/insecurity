@@ -1,0 +1,16 @@
+<streams>
+	<stream url="http://192.168.5.3/MJPEG.CGI?.mjpeg" username="admin" password="Grubababa1"/>
+	<stream url="http://192.168.5.2/MJPEG.CGI?.mjpeg" username="admin" password="Grubababa1"/>
+	<stream url="http://192.168.5.4/MJPEG.CGI?.mjpeg" username="admin" password="Grubababa1"/>
+	<stream url="http://192.168.5.5/MJPEG.CGI?.mjpeg" username="admin" password="Grubababa1"/>
+</streams>
+
+
+	<!-- --
+
+
+	<stream url="http://107.1.228.34/axis-cgi/mjpg/video.cgi?resolution=320x240"/>
+	<stream url="http://217.7.66.54/axis-cgi/mjpg/video.cgi?resolution=320x240"/>
+	<stream url="http://194.103.218.15/axis-cgi/mjpg/video.cgi?resolution=320x240"/>
+	<stream url="http://193.90.139.222:33450/axis-cgi/mjpg/video.cgi?resolution=320x240"/>
+	<!-- -->

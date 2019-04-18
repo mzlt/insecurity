@@ -1,0 +1,5 @@
+ofxCcv
+ofxIpVideoGrabber
+ofxKinect
+ofxPS3EyeGrabber
+ofxXmlSettings
